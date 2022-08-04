@@ -1,0 +1,37 @@
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-shadow:2px 2px 5px red;
+    
+}
+.data{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid wheat ;
+    background-color:#fff;
+    margin: auto;
+    margin-top: 5%;
+    height: 50vh;
+    width: 70%;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+.data tr:nth-child(even){
+    background-color:burlywood;
+
+   
+}
+th {
+  
+    background-color: #04AA6D;
+    color: white;
+   
+ 
+   
+
+}

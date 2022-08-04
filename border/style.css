@@ -1,0 +1,25 @@
+.items{
+    width: 50%;
+    height: 50vh;
+    background-color:dodgerblue;
+    text-align: center;
+    color: aliceblue;
+    background-image:url(https://images.pexels.com/photos/12815075/pexels-photo-12815075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+    
+    
+    
+}
+.item{
+    border-width: 5px;
+    border-color: white;
+    border-style: dotted solid
+    ;
+    margin: 40px;
+    padding: 20px 0px;
+}
+button{
+    background-color: dodgerblue;
+    border-radius: 5px;
+    padding:15px 50px;
+    
+}
